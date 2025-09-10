@@ -26,7 +26,6 @@ As a developer passionate about web technologies, I design modern and user-frien
 ### 📂 Featured Projects  
 - 📝 **Noteify** – Personal note-taking and sharing application  
 - 📚 **Whispen** – PDF reader with ambient sounds and multi-language support  
-- 🎮 **CraftUp (In Progress)** – Multiplayer restaurant & crafting game  
 
 ---
 
