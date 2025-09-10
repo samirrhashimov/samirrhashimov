@@ -25,8 +25,7 @@ Web teknolojilerine tutkulu bir geliştirici olarak, modern ve kullanıcı dostu
 
 ### 📂 Öne Çıkan Projelerim  
 - 📝 **Noteify** – Kişisel not alma ve paylaşma uygulaması  
-- 📚 **Whispen** – PDF okuma, arka plan sesleri ve çoklu dil desteği  
-- 🎮 **CraftUp (Devam Ediyor)** – Çok oyunculu restoran & crafting oyunu  
+- 📚 **Whispen** – PDF okuma, arka plan sesleri ve çoklu dil desteği   
 
 ---
 
