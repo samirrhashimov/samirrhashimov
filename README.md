@@ -1,20 +1,20 @@
-# Hello there! 👋  
+<h2 align="center"> Hello there! 👋 </h2>
 
-I'm **Samir Hashimov**, a **Front-End Developer**.  
-As a developer about web technologies, I design modern and user-friendly interfaces while building scalable solutions.  
-
----
+<h3 align="center">I'm Samir Hashimov, a Front-End Developer.</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/samirrhashimov"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/samirrhashimov"><img src="https://img.shields.io/badge/-Instagram-FF405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ### Skills
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%230000aa?style=flat-square&logo=CSS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white&color=black)
-![Firebase](https://img.shields.io/badge/Firebase-white?style=flat-square&logo=firebase&logoColor=orange)
-![Netlify](https://img.shields.io/badge/Netlify-%23000?style=flat-square&logo=netlify&logoColor=%2332E7E2)
-![n8n](https://img.shields.io/badge/n8n-%23fff?style=flat-square&logo=n8n&logoColor=%23EA4B71)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,firebase,netlify,vscode," />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/n8n-%23fff?style=flat&logo=n8n&logoColor=%23EA4B71" />
+</p>
 
 ---
 
@@ -27,8 +27,10 @@ As a developer about web technologies, I design modern and user-friendly interfa
 
 ### My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirrhashimov&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirrhashimov&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samirrhashimov&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirrhashimov&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
+</p>
 
 ---
 
