@@ -12,10 +12,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,firebase,netlify,vscode," />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/n8n-%23fff?style=flat&logo=n8n&logoColor=%23EA4B71" />
-</p>
-
 ---
 
 ### Goals  
