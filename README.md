@@ -31,4 +31,4 @@
 ---
 
 ### Contact    
-Email: **samirrcontact@gmail.com**
+Email: <a href="mailto:samirrhashimov@proton.me">samirrhashimov@proton.me</a>
