@@ -2,8 +2,10 @@
 
 <h3 align="center">I'm Samir Hashimov, a Front-End Developer.</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/samirrhashimov"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/samirrhashimov"><img src="https://img.shields.io/badge/-Instagram-FF405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://dev.to/samirrhashimov">
+    <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/samirrhashimov">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ### Skills
