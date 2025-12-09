@@ -26,9 +26,10 @@
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samirrhashimov&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirrhashimov&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats-lovat-one-43.vercel.app/api?username=samirrhashimov&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&hide_title=true" height="140"/>
+  <img src="https://github-readme-stats-lovat-one-43.vercel.app/api/top-langs/?username=samirrhashimov&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF" height="165"/>
 </p>
+
 
 ---
 
