@@ -1,6 +1,6 @@
 <h2 align="center"> Hello there! 👋 </h2>
 
-<h3 align="center">I'm Samir Hashimov, a Front-End Developer.</h3>
+<h3 align="center">I'm Samir Hashimov, a <i>UI Engineer</i> and <i>Front-End Developer</i>.</h3>
 <p align="center">
   <a href="https://dev.to/samirrhashimov">
     <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logoColor=white" /></a>
