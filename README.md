@@ -11,7 +11,7 @@
 ### Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,git,github,npm,firebase,netlify,vscode," />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,git,github,npm,firebase,netlify,vercel,vscode" />
 </p>
 
 ---
