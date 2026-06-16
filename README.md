@@ -1,6 +1,6 @@
 <h2 align="center"> Hello there! 👋 </h2>
 
-<h3 align="center">I'm Samir Hashimov, a <i>UI Engineer</i> and <i>Front-End Developer</i>.</h3>
+<h3 align="center">I'm Samir Hashimov, a <i>Front-End Developer</i> and <i>UI Engineer</i>.</h3>
 <p align="center">
   <a href="https://www.instagram.com/samirrhashimov">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logoColor=white" /></a>
@@ -10,16 +10,33 @@
 
 ### Skills
 
+<p>All skills</p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,git,npm,figma,firebase,netlify,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,git,npm,figma,firebase,netlify,vercel,vscode" />
 </p>
+
+<p>Web Development</p>
+
+- HTML,CSS
+- JavaScript
+- React / Vite
+- Python
+
+<p>Web Design</p>
+
+- Figma
+- Canva
+
+<p>Back-End & Database</p>
+
+- Firebase
 
 ---
 
 ### Goals  
-- Learn modern libraries (React,  Tailwind)  
+- Specialize React and Tailwind CSS
 - Learn TypeScript
-- Develop and share my own web sites
+- Strengthening Soft Skills
   
 ---
 
