@@ -3,7 +3,7 @@
 <h3 align="center">I'm Samir Hashimov, a <i>Junior Front-End Developer</i>.</h3>
 <p align="center">
   <a href="https://www.instagram.com/samirrhashimov">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/samirrhashimov">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logoColor=white" /></a>
 </p>
